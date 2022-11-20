@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
-from ROUTE import get_route, display_route, select_route
+from path import get, display_route, select_route
 
 
 if __name__ == '__main__':
